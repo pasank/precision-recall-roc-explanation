@@ -1,2 +1,2 @@
-# precision-recall-roc-explanation
-This notebook will attempt to provide intuition into classifier performance metrics (such as precision, recall and ROC curves)
+# A Human Friendly Introduction to Precision, Recall and ROC Curves
+This notebook will attempt to provide intuition into classifier performance metrics (such as precision, recall and ROC curves). It is written in the style of guiding a learner, and therefore includes some thinking prompts before the answers are shown. No rote learning of formulas (such as recall equals true positives over true positives plus false negatives) is required, and is expressly discouraged.
